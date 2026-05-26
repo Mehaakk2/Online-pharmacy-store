@@ -1,0 +1,14 @@
+{
+  "name": "online-pharmacy-shopping",
+  "version": "1.0.0",
+  "description": "Online pharmacy shopping app with Node.js, Express, and local JSON storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-validator": "^7.2.1",
+    "uuid": "^10.0.0"
+  }
+}

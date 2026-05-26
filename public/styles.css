@@ -1,0 +1,16 @@
+.product-card {
+  height: 100%;
+}
+
+.badge-stock {
+  font-size: 0.8rem;
+}
+
+.cart-item {
+  border-bottom: 1px solid #e9ecef;
+  padding: 0.5rem 0;
+}
+
+.cart-item:last-child {
+  border-bottom: none;
+}

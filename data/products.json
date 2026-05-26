@@ -1,0 +1,110 @@
+[
+  {
+    "id": "b8d8f3d1-1f5c-4d9a-a8dd-7f1b6e7f1001",
+    "name": "Paracetamol 500mg",
+    "category": "Pain Relief",
+    "price": 4.99,
+    "stock": 40,
+    "prescriptionRequired": false,
+    "description": "Common pain and fever relief tablets."
+  },
+  {
+    "id": "b8d8f3d1-1f5c-4d9a-a8dd-7f1b6e7f1002",
+    "name": "Amoxicillin 250mg",
+    "category": "Antibiotic",
+    "price": 12.5,
+    "stock": 20,
+    "prescriptionRequired": true,
+    "description": "Prescription antibiotic for bacterial infections."
+  },
+  {
+    "id": "b8d8f3d1-1f5c-4d9a-a8dd-7f1b6e7f1003",
+    "name": "Vitamin C Tablets",
+    "category": "Vitamins",
+    "price": 7.25,
+    "stock": 60,
+    "prescriptionRequired": false,
+    "description": "Daily vitamin supplement."
+  },
+  {
+    "id": "b8d8f3d1-1f5c-4d9a-a8dd-7f1b6e7f1004",
+    "name": "Ibuprofen 400mg",
+    "category": "Pain Relief",
+    "price": 5.75,
+    "stock": 35,
+    "prescriptionRequired": false,
+    "description": "Anti-inflammatory pain relief tablets."
+  },
+  {
+    "id": "b8d8f3d1-1f5c-4d9a-a8dd-7f1b6e7f1005",
+    "name": "Cough Syrup",
+    "category": "Cold & Flu",
+    "price": 6.9,
+    "stock": 25,
+    "prescriptionRequired": false,
+    "description": "Soothes dry cough and throat irritation."
+  },
+  {
+    "id": "b8d8f3d1-1f5c-4d9a-a8dd-7f1b6e7f1006",
+    "name": "Cetirizine 10mg",
+    "category": "Allergy",
+    "price": 5.1,
+    "stock": 50,
+    "prescriptionRequired": false,
+    "description": "Antihistamine for allergy symptoms."
+  },
+  {
+    "id": "b8d8f3d1-1f5c-4d9a-a8dd-7f1b6e7f1007",
+    "name": "Omeprazole 20mg",
+    "category": "Digestive Health",
+    "price": 8.45,
+    "stock": 30,
+    "prescriptionRequired": true,
+    "description": "Used for acid reflux and stomach protection."
+  },
+  {
+    "id": "b8d8f3d1-1f5c-4d9a-a8dd-7f1b6e7f1008",
+    "name": "ORS Powder",
+    "category": "Rehydration",
+    "price": 2.99,
+    "stock": 80,
+    "prescriptionRequired": false,
+    "description": "Oral rehydration salts for dehydration support."
+  },
+  {
+    "id": "b8d8f3d1-1f5c-4d9a-a8dd-7f1b6e7f1009",
+    "name": "Multivitamin Capsules",
+    "category": "Vitamins",
+    "price": 11.2,
+    "stock": 45,
+    "prescriptionRequired": false,
+    "description": "Daily multivitamin support."
+  },
+  {
+    "id": "b8d8f3d1-1f5c-4d9a-a8dd-7f1b6e7f1010",
+    "name": "Insulin Pen",
+    "category": "Diabetes Care",
+    "price": 24.99,
+    "stock": 12,
+    "prescriptionRequired": true,
+    "description": "Prescription injection device for diabetes management."
+  },
+  {
+    "id": "b8d8f3d1-1f5c-4d9a-a8dd-7f1b6e7f1011",
+    "name": "Hand Sanitizer 250ml",
+    "category": "Hygiene",
+    "price": 3.49,
+    "stock": 70,
+    "prescriptionRequired": false,
+    "description": "Alcohol-based hand sanitizer."
+  },
+  {
+    "id": "b8d8f3d1-1f5c-4d9a-a8dd-7f1b6e7f1012",
+    "name": "Nasal Spray",
+    "category": "Cold & Flu",
+    "price": 6.25,
+    "stock": 28,
+    "prescriptionRequired": false,
+    "description": "Relieves blocked nose and sinus congestion."
+  }
+]
