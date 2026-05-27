@@ -6,27 +6,27 @@ Online pharmacy shopping store is a full-stack online pharmacy shopping applicat
 
 ## Features
 
-### 🛍️ Product Catalogue
+### Product Catalogue
 - Has a browser option for medicines that the customers wants to search
 - Displays the stock of the medicines
 
-### 🛒 Shopping Cart
+### Shopping Cart
 - Add products to cart directly from the product listing
 - Adjust item quantities with `+` / `-` buttons or remove items entirely
 - It gives real-time conversion of amount in EUR
 
-### 📦 Order Placement
+### Order Placement
 - Checkout form collects customer name, phone number, and delivery address
 - Server-side input validation using `express-validator`
 - Stock is automatically decremented upon successful order
 - Orders get rejected if there is no more stock available for the product
 
-### 📜 Order History
+### Order History
 - All past orders are displayed in a table with customer name, date, total, and item count
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
   online-pharmacy-shopping/
 │
@@ -47,7 +47,7 @@ Online pharmacy shopping store is a full-stack online pharmacy shopping applicat
 ```
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Prerequisites
 
@@ -67,25 +67,25 @@ Open your browser and go to **http://localhost:3000**
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 ### Products
-```
-`GET` | `/api/products` 
-`GET` | `/api/products/:id`
-`POST` | `/api/products` 
-`PUT` | `/api/products/:id`
-`DELETE` | `/api/products/:id`
-```
+
+- `GET` | `/api/products` 
+- `GET` | `/api/products/:id`
+- `POST` | `/api/products` 
+- `PUT` | `/api/products/:id`
+- `DELETE` | `/api/products/:id`
+
 
 ### Orders
 
-`GET` | `/api/orders` 
-`POST` | `/api/orders` 
+- `GET` | `/api/orders` 
+- `POST` | `/api/orders` 
 
 ---
 
-## 🗄️ Data Storage
+## Data Storage
 
 All data is stored in plain JSON files inside the `data/` directory:
 
