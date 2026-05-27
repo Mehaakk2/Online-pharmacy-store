@@ -27,7 +27,7 @@ Online pharmacy shopping store is a full-stack online pharmacy shopping applicat
 ---
 
 ## 📁 Project Structure
-
+```
   online-pharmacy-shopping/
 │
 ├── node_modules
@@ -44,7 +44,7 @@ Online pharmacy shopping store is a full-stack online pharmacy shopping applicat
 └── data/
     ├── products.json
     └── orders.json
-
+```
 ---
 
 ## ⚙️ Installation
@@ -70,12 +70,13 @@ Open your browser and go to **http://localhost:3000**
 ## 🔌 API Endpoints
 
 ### Products
-
+```
 `GET` | `/api/products` 
 `GET` | `/api/products/:id`
 `POST` | `/api/products` 
 `PUT` | `/api/products/:id`
 `DELETE` | `/api/products/:id`
+```
 
 ### Orders
 
